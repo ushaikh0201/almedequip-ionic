@@ -1,6 +1,8 @@
 {
   "name": "almedequip-ionic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "pro_id": "d3712040"
 }
